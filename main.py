@@ -7,7 +7,7 @@ import time
 
 class InstaPostBot:
 
-    def __init__(self, username='amritbhatta856', password='nepalshopify00',
+    def __init__(self, username='amrit', password='nepalshop0',
                  savedurl='https://www.instagram.com/p/CMsVoq2LqEU/'):
         # get the variables
         self.driver = webdriver.Firefox(executable_path='./geckodriver')
